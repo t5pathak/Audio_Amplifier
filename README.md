@@ -23,7 +23,7 @@ The aim of the project is to construct an Audio Amplifier capable of amplifying 
 
 # Directory Structure
 - ```src``` folder contains the Multisim Code. 
-- ```img``` contains all the images to test the code on.
+- ```img``` contains all the images of the different stages of the circuit.
  
 # Running the file
 1. Run the multisim file.
